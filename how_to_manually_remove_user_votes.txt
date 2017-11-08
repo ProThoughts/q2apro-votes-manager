@@ -1,0 +1,5 @@
+1. open phpmyadmin, find userid in qa_users (SEARCH handle LIKE)
+
+2. go to table qa_uservotes, find userid (SEARCH LIKE) and delete all votes
+
+3. >Admin >Stats do [Recount Posts] and then [Recalculate User Points]
